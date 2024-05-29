@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "name": "สเกลงาน *ปกติ",
+    "desc": {
+      "Doc": false,
+      "Prof": false
+    },
+    "image": [
+      "/default/cms_nww_0_018_1.png",
+      "/default/df_122.png",
+      "/default/df_2.png",
+      "/default/Cms_nww_11_4.png",
+      "/default/krm_smp.png",
+      "/default/jo_2.png"
+    ],
+    "desc1": "หกฟฟกฟหสากฟหก 100฿",
+    "desc2": "หกฟฟกฟหสากฟหก 100฿",
+    "desc3": "หกฟฟกฟหสากฟหก 100฿",
+    "desc4": "หกฟฟกฟหสากฟหก 100฿",
+    "desc5": "หกฟฟกฟหสากฟหก 100฿"
+  },
+  {
+    "id": 1,
+    "name": "สเกลงาน *จิบิ01",
+    "desc": {
+      "Doc": false,
+      "Prof": false
+    },
+    "image": [
+      "/chibi/chibi01/grr_oo1.png",
+      "/chibi/chibi01/kakship.png",
+      "/chibi/chibi01/nee_oo1.png",
+      "/chibi/chibi01/grr_oo1.png",
+      "/chibi/chibi01/kakship.png",
+      "/chibi/chibi01/nee_oo1.png"
+    ],
+    "desc1": "หกฟฟกฟหสากฟหก 100฿",
+    "desc2": "หกฟฟกฟหสากฟหก 100฿",
+    "desc3": "หกฟฟกฟหสากฟหก 100฿",
+    "desc4": "หกฟฟกฟหสากฟหก 100฿",
+    "desc5": "หกฟฟกฟหสากฟหก 100฿"
+  },
+  {
+    "id": 2,
+    "name": "สเกลงาน *จิบิ02",
+    "desc": {
+      "Doc": false,
+      "Prof": false
+    },
+    "image": [
+      "/chibi/chibi02/cms_nww_9_1.png",
+      "/chibi/chibi02/www.png",
+      "/chibi/chibi02/cms_nww_9_1.png",
+      "/chibi/chibi02/www.png",
+      "/chibi/chibi02/cms_nww_9_1.png",
+      "/chibi/chibi02/www.png"
+    ],
+    "desc1": "หกฟฟกฟหสากฟหก 100฿",
+    "desc2": "หกฟฟกฟหสากฟหก 100฿",
+    "desc3": "หกฟฟกฟหสากฟหก 100฿",
+    "desc4": "หกฟฟกฟหสากฟหก 100฿",
+    "desc5": "หกฟฟกฟหสากฟหก 100฿"
+  },
+  {
+    "id": 3,
+    "name": "สเกลงาน *รูปโปรไฟล์",
+    "desc": {
+      "Doc": false,
+      "Prof": true
+    },
+    "image": [
+      "/default/cms_nww_0_018_1.png",
+      "/default/df_122.png",
+      "/default/df_2.png",
+      "/default/Cms_nww_11_4.png",
+      "/default/krm_smp.png",
+      "/default/jo_2.png"
+    ],
+    "desc1": "หกฟฟกฟหสากฟหก 100฿",
+    "desc2": "หกฟฟกฟหสากฟหก 100฿",
+    "desc3": "หกฟฟกฟหสากฟหก 100฿",
+    "desc4": "หกฟฟกฟหสากฟหก 100฿",
+    "desc5": "หกฟฟกฟหสากฟหก 100฿"
+  },
+  {
+    "id": 4,
+    "name": "สเกลงาน *มีดีเทล",
+    "desc": {
+      "Doc": true,
+      "Prof": false
+    },
+    "image": [
+      "/png-mount/detailed/cms_nww_0_010_4_4.png",
+      "/png-mount/detailed/cms_nww_0_010_4.png",
+      "/png-mount/detailed/cms_nww_2_4_4.png",
+      "/png-mount/detailed/cms_nww_2_4_3.png",
+      "/png-mount/detailed/cms_nww_5v_1_3.png",
+      "/png-mount/detailed/cms_nww_5v_1_4.png"
+    ],
+    "desc1": "หกฟฟกฟหสากฟหก 100฿",
+    "desc2": "หกฟฟกฟหสากฟหก 100฿",
+    "desc3": "หกฟฟกฟหสากฟหก 100฿",
+    "desc4": "หกฟฟกฟหสากฟหก 100฿",
+    "desc5": "หกฟฟกฟหสากฟหก 100฿"
+  },
+  {
+    "id": 5,
+    "name": "สเกลงาน *ไม่มีดีเทล",
+    "desc": {
+      "Doc": true,
+      "Prof": false
+    },
+    "image": [
+      "/png-mount/no-detailed/neeNz_1_1.png",
+      "/png-mount/no-detailed/neeNz_1_2.png",
+      "/png-mount/no-detailed/neeNz0_p1_smile_1_1.png",
+      "/png-mount/no-detailed/neeNz0_p1_smile_1_2.png",
+      "/png-mount/no-detailed/neeNz0_p4_1_3.png",
+      "/png-mount/no-detailed/neeNz0_p4_1_1.png"
+    ],
+    "desc1": "หกฟฟกฟหสากฟหก 100฿",
+    "desc2": "หกฟฟกฟหสากฟหก 100฿",
+    "desc3": "หกฟฟกฟหสากฟหก 100฿",
+    "desc4": "หกฟฟกฟหสากฟหก 100฿",
+    "desc5": "หกฟฟกฟหสากฟหก 100฿"
+  }
+]

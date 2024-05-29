@@ -1,0 +1,22 @@
+[
+    {
+        "id": "Default",
+        "image": "/default/cms_nww_0_018_1.png"
+    },
+    {
+        "id": "Chibi01",
+        "image": "/chibi/chibi01/grr_oo1.png"
+    },
+    {
+        "id": "Chibi02",
+        "image": "/chibi/chibi02/www.png"
+    },
+    {
+        "id": "Png-Mount Detailed",
+        "image": "/png-mount/detailed/cms_nww_0_010_4_4.png"
+    },
+    {
+        "id": "Png-Mount NoDetailed",
+        "image": "/png-mount/no-detailed/neeNz_1_1.png"
+    }
+]
